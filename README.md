@@ -25,4 +25,4 @@ $ sudo make clean install
 ## Added options
 - Password — usage: `dmenu -P`
 - Border — usage: `dmenu -bw <pixels>`
-- Center - usage: `dmenu -c`
+- Center — usage: `dmenu -c`
