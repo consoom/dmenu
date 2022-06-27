@@ -16,8 +16,8 @@ This build of dmenu is based on [dmenu 5.1](https://dl.suckless.org/tools/dmenu-
 
 ## Installation
 ```
-$ git clone https://github.com/consoom/dwm
-$ cd dwm
+$ git clone https://github.com/consoom/dmenu
+$ cd dmenu
 $ sudo make clean install
 ```
 **Important: you need to install `libxft-bgra` (available in the AUR on arch), otherwise dmenu will crash. This is caused by an issue in the normal libxft package that breaks rendering colored characters. [Read more](https://gitlab.freedesktop.org/xorg/lib/libxft/-/merge_requests/1).**
